@@ -10,4 +10,3 @@ while (i != number):
         print("{} is Zero".format(number))
     elif i == number and number < 0:
         print("{} is negative".format(number))
-print(end=" ")
